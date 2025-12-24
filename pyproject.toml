@@ -18,9 +18,9 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/git-org-name/git-repo-name"
-Repository = "https://github.com/git-org-name/git-repo-name"
-Documentation = "https://github.com/git-org-name/git-repo-name#readme"
+Homepage = "https://github.com/hezhangjian/mcp-protocol"
+Repository = "https://github.com/hezhangjian/mcp-protocol"
+Documentation = "https://github.com/hezhangjian/mcp-protocol#readme"
 
 [tool.mypy]
 python_version = "3.11"
